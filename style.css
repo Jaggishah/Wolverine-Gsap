@@ -25,7 +25,7 @@ nav{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 25px;
+  padding: 40px 100px;
 }
 .part2{
   display: flex;
@@ -57,10 +57,11 @@ nav button {
 }
 
 .center{
-  padding: 25px;
+
   height: 60%;
   width: 100%;
   display: flex;
+  padding: 25px 100px;
 }
 
 .center-part1{
@@ -101,7 +102,7 @@ nav button {
 }
 
 .section1bottom{
-  padding: 25px;
+  padding: 25px 100px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -110,7 +111,7 @@ nav button {
 
 .section2 .services{
 
-  padding: 40px 120px;
+  padding: 100px 120px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
